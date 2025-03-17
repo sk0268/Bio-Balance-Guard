@@ -5,4 +5,4 @@ Bio Balance Guard is an AI-powered system designed to identify animal species ba
 **A****dmin Console****:** Manage data related to user locations and spotted animals.
 **Living Range Maintenance:** Maintain and update information on species’ habitats.
 **Interactive Forest Map:** Helps users navigate forests and track animal locations.
-**AI-Powered Insights:** Uses ML models for species classification and conservation status prediction.
+**AI-Powered Insights:** Uses ML models for species classifications and conservation status prediction.
